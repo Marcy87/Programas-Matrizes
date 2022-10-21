@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\bin\Debug\net6.0\ProgramMatrizes02.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\bin\Debug\net6.0\ProgramMatrizes02.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\bin\Debug\net6.0\ProgramMatrizes02.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\bin\Debug\net6.0\ProgramMatrizes02.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\bin\Debug\net6.0\ProgramMatrizes02.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\refint\ProgramMatrizes02.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ProgramMatrizes02.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes02\ProgramMatrizes02\obj\Debug\net6.0\ref\ProgramMatrizes02.dll
