@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProgramMatrizes05/1.0.0": {
+        "runtime": {
+          "ProgramMatrizes05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramMatrizes05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
