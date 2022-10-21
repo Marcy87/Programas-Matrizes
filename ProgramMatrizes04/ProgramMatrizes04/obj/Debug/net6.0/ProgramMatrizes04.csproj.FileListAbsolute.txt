@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\bin\Debug\net6.0\ProgramMatrizes04.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\bin\Debug\net6.0\ProgramMatrizes04.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\bin\Debug\net6.0\ProgramMatrizes04.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\bin\Debug\net6.0\ProgramMatrizes04.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\bin\Debug\net6.0\ProgramMatrizes04.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\refint\ProgramMatrizes04.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ProgramMatrizes04.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 7 - Matrizes\Programas - Matrizes\ProgramMatrizes04\ProgramMatrizes04\obj\Debug\net6.0\ref\ProgramMatrizes04.dll
